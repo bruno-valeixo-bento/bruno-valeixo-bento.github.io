@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office 314</p>
-    <p>Instituto de Física Teórica<p>
+    <p>Instituto de Física Teórica (IFT)<p>
     <p>C. Nicolás Cabrera, 13</p>
     <p>Madrid</p>
 
