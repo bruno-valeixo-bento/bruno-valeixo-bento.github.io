@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: de Sitter vacua
+description: What's all the fuss aroung de Sitter vacua in string theory?
+img: 
 importance: 1
-category: work
+category: Topics
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

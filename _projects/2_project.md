@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Flux compactifications
+description: A brief description of flux compactifications in string theory
+img: 
 importance: 2
-category: work
+category: Topics
 giscus_comments: true
 ---
 

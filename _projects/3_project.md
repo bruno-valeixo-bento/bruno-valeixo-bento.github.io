@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Warping
+description: Warping the extra dimensions of string theory
+img: 
 importance: 3
-category: work
+category: Topics
 ---
 
 Every project has a beautiful feature showcase page.
