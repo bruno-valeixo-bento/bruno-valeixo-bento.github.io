@@ -4,7 +4,7 @@ title: Flux compactifications
 description: A brief description of flux compactifications in string theory
 img: 
 importance: 2
-category: Topics
+category: 
 giscus_comments: true
 ---
 

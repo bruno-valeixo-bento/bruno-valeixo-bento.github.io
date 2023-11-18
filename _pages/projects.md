@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Physics
+title: Research
 permalink: /projects/
-description: Here you can find details about my work, not only the research topics I'm interested in and the actual projects I have either worked on or are currently ongoing. 
+description: Here you can find details about my work, not only the research topics I'm interested in but also the actual projects I have either worked on or are currently ongoing. 
 nav: true
 nav_order: 2
 display_categories: [Topics, Projects]

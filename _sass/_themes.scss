@@ -14,8 +14,9 @@
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-divider-color: rgba(36, 36, 36, 0.1);
   --global-card-bg-color: #{$white-color};
+  --global-mydivider-color:  rgb(170, 170, 170);
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -59,7 +60,7 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
+  --global-divider-color: #37373a;
   --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;

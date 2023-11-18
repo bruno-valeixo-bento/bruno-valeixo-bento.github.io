@@ -75,22 +75,22 @@
   "publications": [],
   "skills": [],
   "languages": [
-    {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    },
-    {
-      "language": "Russian",
-      "fluency": "Beginner"
-    }
+    // {
+    //   "language": "Portuguese",
+    //   "fluency": "Native speaker"
+    // },
+    // {
+    //   "language": "English",
+    //   "fluency": "Fluent"
+    // },
+    // {
+    //   "language": "Spanish",
+    //   "fluency": "Intermediate"
+    // },
+    // {
+    //   "language": "Russian",
+    //   "fluency": "Beginner"
+    // }
   ],
   "interests": [],
   "references": [

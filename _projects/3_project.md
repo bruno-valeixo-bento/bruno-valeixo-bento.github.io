@@ -4,7 +4,7 @@ title: Warping
 description: Warping the extra dimensions of string theory
 img: 
 importance: 3
-category: Topics
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
