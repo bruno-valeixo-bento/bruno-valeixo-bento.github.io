@@ -65,6 +65,10 @@ blockquote {
   font-size: 1.2rem;
 }
 
+.emphasize {
+  color: var(--global-theme-color);
+}
+
 // Math
 
 .equation {
@@ -305,7 +309,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {

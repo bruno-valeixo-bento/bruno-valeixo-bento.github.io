@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my website! 
 
 I am a so-called "theoretical physicist" and my job is to study the Universe. 
-I'm from Lisbon, in sunny Portugal, where I started out my journey at Intituto Superior Técnico (UL)
+I'm from Lisbon, in sunny Portugal, where I started out my journey at Instituto Superior Técnico (UL)
 before moving to London to get my MSc at Imperial College and then Liverpool for my PhD. 
 I am currently in Madrid, doing a postdoc at the Instítuto de Física Teórica (IFT).
 
