@@ -15,7 +15,7 @@ layout: default
       {% for entry in site.data.cv %}
         <a class="anchor" id="{{ entry.title }}"></a>
         <div class="card mt-3 p-3">
-          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <h3 class="card-title font-weight-medium" style="font-size: 1.75em;">{{ entry.title }}</h3>
           <div>
           {% if entry.type == "list" %}
             {% include cv/list.html %}
@@ -27,6 +27,8 @@ layout: default
             {% include cv/time_table.html %}
           {% elsif entry.type == "list_groups" %}
             {% include cv/list_groups.html %}
+          {% elsif entry.type == "references" %}
+            {% include cv/references.html %}
           {% else %}
             {{ entry.contents }}
           {% endif %}
@@ -58,7 +60,7 @@ layout: default
         {% endif %}
         <a class="anchor" id="{{ data[0] }}"></a>
         <div class="card mt-3 p-3">
-          <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+          <h2 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h2>
           <div>
           {% case data[0] %}
             {% when "basics" %}

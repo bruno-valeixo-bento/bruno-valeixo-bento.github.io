@@ -27,7 +27,7 @@ I'm from Lisbon, in sunny Portugal, where I started out my journey at Instituto 
 before moving to London to get my MSc at Imperial College and then Liverpool for my PhD. 
 I am currently in Madrid, doing a postdoc at the Instítuto de Física Teórica (IFT).
 
-Apart from doing research, I'm very also very interested in outreach and science communication, which is something I hope to do more in the future. 
+Apart from doing research, I'm also very interested in outreach and science communication, which is something I hope to do more in the future. 
 
 <div style="padding-top:3rem; padding-bottom:1rem;"><span style="color: var(--global-theme-color); font-size: 1.15rem;"> My research in a nutshell </span></div>
 

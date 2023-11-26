@@ -25,7 +25,7 @@
           {% endif %}
           <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
             {% if content.title %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
+            <h5 class="title font-weight-bold ml-1 ml-md-4" style="font-size: 1.2em;">{{content.title}}</h5>
             {% endif %}
             {% if content.department or content.institution %}
             <table class="table-cv ml-1 ml-md-4 institution">
@@ -42,8 +42,14 @@
                 <td class="department">{{content.department}}</td>
               </tr>
               {% endif %}
+              {% endif %}
             </tbody>
             </table>
+            {% if content.supervisor %}
+              <h6 class="title ml-1 ml-md-4"><span style="font-weight: bold;">Supervisor:</span> {{content.supervisor}}</h6>
+            {% endif %}
+            {% if content.thesis %}
+              <h6 class="title ml-1 ml-md-4"><span style="font-weight: bold;">Thesis:</span> <a href="{{content.link}}">{{content.thesis}}</a></h6>
             {% endif %}
             {% if content.maindescription %}
               <div class="ml-1 ml-md-4 ">{{ content.maindescription }}</div>

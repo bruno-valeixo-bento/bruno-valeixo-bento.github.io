@@ -3,9 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: >
-  My work is mainly focused on String Theory and Cosmology. I am interested in connecting the high-energy physics of strings to the low-energy observations we want to explain: this includes for example the mysterious dark energy and dark matter that dominate the Universe around us (e.g. in the context of the debate around de Sitter vacua in string theory). I usually do this by exploring compactifications of the extra dimensions of string theory in the presence of things like fluxes and branes, which can have interesting effects – an example is the warping that was the basis of my PhD studies in Liverpool. More recently I have started to think more carefully about the Swampland conjectures and their interplay with the familiar reasoning and intuition of Effective Field Theories.
-  <br><br>
-  Here you can find details about my work, not only more details on the research topics I'm interested in but also the actual projects I have either worked on or are currently thinking about. 
+  Here you can find more details about my work, not only on the research topics I'm interested in but also the actual projects I have either worked on or are currently thinking about. 
 nav: true
 nav_order: 1
 display_categories: [Topics, Projects]
