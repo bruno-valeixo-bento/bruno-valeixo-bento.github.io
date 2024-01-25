@@ -23,11 +23,11 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my website! 
 
 I am a so-called "theoretical physicist" and my job is to study the Universe. 
-I'm from Lisbon, in sunny Portugal, where I started out my journey at Instituto Superior Técnico (UL)
-before moving to London to get my MSc at Imperial College and then Liverpool for my PhD. 
-I am currently in Madrid, doing a postdoc at the Instítuto de Física Teórica (IFT).
+I'm from Cascais (Lisbon), in sunny Portugal, where I started out my journey at Instituto Superior Técnico (UL)
+before moving to London to get my MSc at Imperial College and then Liverpool for my PhD studies. 
+I am currently in Madrid, doing a postdoc at Instítuto de Física Teórica (IFT).
 
-Apart from doing research, I'm also very interested in outreach and science communication, which is something I hope to do more in the future. 
+Not only do I like doing science, but I also love communicating it -- I enjoy giving talks, for both experts and non-experts, and telling everyone what I've been learning all along (this is something I hope to do more in the future!). You can find more about my outreach and science communication [here](./blog/). 
 
 <div style="padding-top:3rem; padding-bottom:1rem;"><span style="color: var(--global-theme-color); font-size: 1.15rem;"> My research in a nutshell </span></div>
 

@@ -3,7 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 description: >
-  Here you can find more details about my work, not only on the research topics I'm interested in but also the actual projects I have either worked on or are currently thinking about. 
+  Broadly speaking, I work on high energy physics, gravity and cosmology. I am interested in how the Universe works at the most fundamental level, including what it is made of (particles? strings?) and which interactions keep it together, gravity being the sneakiest of them all. In a nutshell, a day in my life includes
+  <ul>
+    <li>String Theory / Supergravity</li>
+    <li>Cosmology / Dark Energy</li>
+    <li>Effective Field Theories</li>
+  </ul>
+  I have also worked on Causal Set Theory in the past, but it's been a while. You can find more details about my work, not only on the research topics I'm interested in but also the actual projects I have either worked on or are currently on my mind. 
 nav: true
 nav_order: 1
 display_categories: [Topics, Projects]
