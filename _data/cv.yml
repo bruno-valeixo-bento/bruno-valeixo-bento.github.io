@@ -43,6 +43,11 @@
 - title: References
   type: references
   contents:
+    - name: Miguel Montero
+      institution: Instituto de Física Teórica (UAM-CSIC), Spain
+      reference: Collaborator
+      link: https://inspirehep.net/authors/1272182?ui-citation-summary=true 
+      email: miguel.montero@csic.es 
     - name: Susha Parameswaran
       institution: University of Liverpool, UK
       reference: PhD supervisor
@@ -58,8 +63,3 @@
       reference: Collaborator
       link: https://inspirehep.net/authors/1024898?ui-citation-summary=true
       email: thomas.vanriet@kuleuven.be 
-    - name: Miguel Montero
-      institution: Instituto de Física Teórica (UAM-CSIC), Spain
-      reference: Collaborator
-      link: https://inspirehep.net/authors/1272182?ui-citation-summary=true 
-      email: miguel.montero@csic.es 
