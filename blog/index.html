@@ -12,6 +12,22 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
+<style>
+  .video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+  max-width: 1000px;
+  padding: 40px;
+  }
+  .video-grid iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+</style>
 
 <div class="post">
 
@@ -25,6 +41,12 @@ pagination:
   </div>
   {% endif %}
 
+  <div class="video-grid">
+    <!-- Replace these YouTube links with your own -->
+    <iframe src="https://www.youtube.com/embed/Dvlr_Q7ncR8?si=IAsJiJMO_ojCfYMb" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3Ix2tcMgXxc?si=W6G-CKSyr3WpV3Pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  
   {% if site.display_tags or site.display_categories %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
