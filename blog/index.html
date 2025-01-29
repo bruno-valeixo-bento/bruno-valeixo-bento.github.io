@@ -27,6 +27,11 @@ pagination:
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
+  @media (max-width: 600px) {
+    .video-grid {
+      grid-template-columns: 1fr; /* Switch to 1 column */
+    }
+  }
 </style>
 
 <div class="post">
@@ -40,6 +45,8 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+
+  <!-- VIDEOS AND PODCASTS -->
 
   <div class="video-grid">
     <!-- Replace these YouTube links with your own -->
