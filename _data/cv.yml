@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 6th August 1996
     - name: Current position
-      value: Postdoctoral Researcher (IFT-UAM), Madrid
+      value: Postdoctoral Researcher (IFT—UAM), Madrid
     - name: Languages
       value: Portuguese, English, Spanish, Russian 
 
@@ -17,9 +17,23 @@
       institution: Instituto de Física Teórica, UAM-CSIC, Spain
       year: 2023 - Present
       description:
-        - String phenomenology
-        - Cosmology
+        - String compactifications — string vacua, geometry of extra dimensions
+        - String-Cosmology — de Sitter vacua, Quintessence, accelerated expansion
+        - Black Holes/Gravitational Waves
         - Swampland programme
+
+- title: Supervision
+  type: time_table
+  contents:
+    - title: Léo Veissiere (IFT-UAM/LAPTh)
+      year: 2025-26
+      description: String compactifications and time-dependent late-time accelerated expansion 
+    - title: Miquel Salicrú (UAM)
+      year: 2024-25
+      description: Superradiant instabilities from warped KK gravitons
+    - title: Nils Marion (IFT-UAM/ENS-Lyon)
+      year: 2024-25
+      description: Gravitational waves from Binary Black Holes in Warped Compactifications
 
 - title: Education
   type: time_table

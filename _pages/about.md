@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: bvb.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: 
     # <p>Office 314</p>
     # <p>Instituto de Física Teórica (IFT)<p>
