@@ -67,13 +67,14 @@
       reference: PhD supervisor
       link: https://inspirehep.net/authors/1028641?ui-citation-summary=true
       email: susha@liverpool.ac.uk
+    - name: Thomas Van Riet
+      institution: KU Leuven, Belgium
+      reference: Collaborator
+      link: https://inspirehep.net/authors/1024898?ui-citation-summary=true
+      email: thomas.vanriet@kuleuven.be
     - name: Ivonne Zavala
       institution: Swansea University, UK
       reference: Collaborator
       link: https://inspirehep.net/authors/1049889?ui-citation-summary=true
       email: e.i.zavalacarrasco@swansea.ac.uk
-    - name: Thomas Van Riet
-      institution: KU Leuven, Belgium
-      reference: Collaborator
-      link: https://inspirehep.net/authors/1024898?ui-citation-summary=true
-      email: thomas.vanriet@kuleuven.be 
+     
