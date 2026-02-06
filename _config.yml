@@ -127,7 +127,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: From a tiny bit to quite a lot # blog_name will be displayed in your blog page
+blog_name: #From a tiny bit to quite a lot # blog_name will be displayed in your blog page
 blog_nav_title: Outreach # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
 permalink: /outreach/:year/:title/
