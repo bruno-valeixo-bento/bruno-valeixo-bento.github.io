@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Effective Field Theory
-description: A tiny introduction to the notion of EFTs
+description: 
 img: 
 importance: 4
 category: Topics

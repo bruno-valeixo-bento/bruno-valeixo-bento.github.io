@@ -6,21 +6,29 @@
     # - name: Date of Birth
     #   value: 6th August 1996
     - name: Current position
-      value: Postdoctoral Researcher (IFT—UAM), Madrid
+      value: Postdoctoral Researcher (LAPTh/CNRS), Annecy
     - name: Languages
       value: Portuguese, English, Spanish, Russian 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postodoctoral Researcher
+    - title: Postdoctoral Researcher
+      institution: LAPTh, CNRS, Annecy, France
+      year: 2026 - Present
+      # description:
+      #   - String compactifications — string vacua, geometry of extra dimensions
+      #   - String-Cosmology — de Sitter vacua, Quintessence, accelerated expansion
+      #   - Black Holes/Gravitational Waves
+      #   - Swampland programme
+    - title: Postdoctoral Researcher
       institution: Instituto de Física Teórica, UAM-CSIC, Spain
-      year: 2023 - Present
-      description:
-        - String compactifications — string vacua, geometry of extra dimensions
-        - String-Cosmology — de Sitter vacua, Quintessence, accelerated expansion
-        - Black Holes/Gravitational Waves
-        - Swampland programme
+      year: 2023 - 2026
+      # description:
+      #   - String compactifications — string vacua, geometry of extra dimensions
+      #   - String-Cosmology — de Sitter vacua, Quintessence, accelerated expansion
+      #   - Black Holes/Gravitational Waves
+      #   - Swampland programme
 
 - title: Supervision
   type: time_table

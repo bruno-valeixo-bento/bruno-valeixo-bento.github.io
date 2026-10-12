@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Warping
-description: Warping the extra dimensions of string theory
+description: 
 img: 
 importance: 3
-category: Topics
+category: Projects
 ---
 

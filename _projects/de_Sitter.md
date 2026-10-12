@@ -1,7 +1,7 @@
 ---
 layout: page
 title: de Sitter vacua
-description: What's all the fuss around de Sitter vacua in string theory?
+description:
 img: 
 importance: 1
 category: Topics
