@@ -6,6 +6,7 @@ description: A quick rundown of my recent paper
 tags: paper physics
 categories: 
 related_posts: false
+published: false
 ---
 
 A summary of my recent [paper](https://arxiv.org/abs/2501.08230) on EFTs and the species scale.

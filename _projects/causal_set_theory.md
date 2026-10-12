@@ -2,7 +2,6 @@
 layout: page
 title: Causal Set Theory
 description:
-img: 
 importance: 5
 category: Topics
 ---

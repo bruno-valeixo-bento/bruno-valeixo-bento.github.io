@@ -6,6 +6,7 @@ description: A quick rundown of my recent paper
 tags: paper physics
 categories: 
 related_posts: false
+published: false
 ---
 
 A summary of my recent [paper](https://arxiv.org/abs/2511.19392) on superradiant instabilities of rotating black holes triggered by ultra-light Kaluza-Klein towers of spin-2 fields.
